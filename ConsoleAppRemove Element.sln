@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRemove Element", "ConsoleAppRemove Element\ConsoleAppRemove Element.csproj", "{3FB3A3F8-54FE-4AF8-BE7C-D7FAEAD1C0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB3A3F8-54FE-4AF8-BE7C-D7FAEAD1C0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB3A3F8-54FE-4AF8-BE7C-D7FAEAD1C0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB3A3F8-54FE-4AF8-BE7C-D7FAEAD1C0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB3A3F8-54FE-4AF8-BE7C-D7FAEAD1C0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C367109B-B562-409F-851D-3E5F78B684DA}
+	EndGlobalSection
+EndGlobal
